@@ -15,3 +15,5 @@ pip install numpy matplotlib seaborn scipy pywavelets torch
 ```bash
 python file_name.py
 ```
+## Reminder
+Directory name is preset to be "bci_dataset_113-2". Each dataset is under directory named "S#", and two text files are in the dataset, 1.txt being relax state and 2.txt being concentration state.
